@@ -1,7 +1,7 @@
 ![Image of GitHub Banner](https://github.com/kabaothao/kabaothao/blob/main/assets/bannergithub.jpg)
 
-<h1 align="center">Hi 👋, I'm Kabao Thao!</h1>
-<h3 align="center">An inspiring full stack developer from Saint Paul, Minnesota.</h3>
+<h1 align="center">Hi 👋, I'm Kabao Thao!<img src="https://github.com/kabaothao/kabaothao/blob/main/assets/cat.gif" width="40" height="40"></h1>
+<h3 align="center">An inspiring full stack developer from Saint Paul, Minnesota.<img src="https://github.com/kabaothao/kabaothao/blob/main/assets/catcode.gif" width="35" height="35"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabaothao&label=Profile%20views&color=0e75b6&style=flat" alt="kabaothao" /> </p>
 
@@ -32,6 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabaothao&show_icons=true&locale=en" alt="kabaothao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabaothao&" alt="kabaothao" /></p>
+
+<p><img src="https://github.com/kabaothao/kabaothao/blob/main/assets/meetup.gif" width="60" height=55"> <i><b>I love connecting with different people so if you want to chat, I'll be happy to meet you more!<b><i>:wink:</p>
 
 
 <!--
