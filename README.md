@@ -1,4 +1,4 @@
-![Image of GitHub Banner](https://octodex.github.com/images/yaktocat.png)
+![Image of GitHub Banner](https://github.com/kabaothao/kabaothao/blob/main/assets/bannergithub.jpg)
 
 <h1 align="center">Hi 👋, I'm Kabao Thao!</h1>
 <h3 align="center">An inspiring full stack developer from Saint Paul, Minnesota.</h3>
