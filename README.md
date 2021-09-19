@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabaothao&label=Profile%20views&color=0e75b6&style=flat" alt="kabaothao" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabaothao" alt="kabaothao" /></a> </p>
 
 - 🔭 I’m currently working on [Rick and Morty Wiki](https://github.com/kabaothao/Project-One)
 
@@ -17,7 +16,7 @@
 
 - 📄 Know about my experiences [https://kabaothao.github.io/Portfolio/asset/resume.pdf](https://kabaothao.github.io/Portfolio/asset/resume.pdf)
 
-- ⚡ Fun fact **If I could have any superpower, it would be Captain Marvel.**
+- ⚡ Fun fact **Grandma's Marathon was my first marathon in 2020. The first 15 miles was brutal!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
