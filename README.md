@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabaothao&label=Profile%20views&color=0e75b6&style=flat" alt="kabaothao" /> </p>
 
 
-- 🔭 I’m currently working on [Rick and Morty Wiki](https://github.com/kabaothao/Project-One)
+- 🔭 I’m currently working on [Employee Tracker](https://github.com/kabaothao/Project-One)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **MYSQL**
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/Portfolio/](https://kabaothao.github.io/Portfolio/)
 
