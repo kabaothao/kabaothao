@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on [Bingo](https://github.com/kabaothao/Bingo)
 
-- 🌱 I’m currently learning **MYSQL**
+- 🌱 I’m currently learning **Computer Science of Javascript**
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/Portfolio/](https://kabaothao.github.io/Portfolio/)
 
 - 📫 How to reach me **tkabao@gmail.com**
-
-- 📄 Know about my experiences [https://kabaothao.github.io/Portfolio/asset/resume.pdf](https://kabaothao.github.io/Portfolio/asset/resume.pdf)
 
 - ⚡ Fun fact **Grandma's Marathon was my first marathon in 2020. The first 15 miles was brutal!**
 
