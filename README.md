@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Budget-Tracker](https://github.com/kabaothao/Budget-Tracker)
 
-- 🌱 I’m currently learning **Web Performances**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/Portfolio/](https://kabaothao.github.io/Portfolio/)
 
