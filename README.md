@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Days to Remember](https://github.com/kabaothao/Days-to-Remember)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React/C#**
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/Portfolio/](https://kabaothao.github.io/Portfolio/)
 
