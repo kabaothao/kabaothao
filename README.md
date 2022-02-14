@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tkabao@gmail.com**
 
-- ⚡ Fun fact **Grandma's Marathon was my first marathon in 2020. The first 15 miles was brutal!**
+- ⚡ Fun fact **Grandma's Marathon was my first marathon in 2020.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
