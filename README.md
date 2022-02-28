@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React/C#/.NET Framework/Material UI/Tailwinds CSS/Microsoft Azure**
 
-- 👨‍💻 All of my projects are available at [https://kabaothao.github.io/Portfolio/](https://kabaothao.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://kabaothao.github.io/React-Portfolio/](https://kabaothao.github.io/React-Portfolio/)
 
 - 📫 How to reach me **tkabao@gmail.com**
 
