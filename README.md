@@ -1,7 +1,7 @@
 ![Image of GitHub Banner](https://github.com/kabaothao/kabaothao/blob/main/assets/bannergithub.jpg)
 
 <h1 align="center">Hi 👋, I'm Kabao Thao!<img src="https://github.com/kabaothao/kabaothao/blob/main/assets/cat.gif" width="40" height="40"></h1>
-<h3 align="center">An inspiring full stack developer from Saint Paul, Minnesota.<img src="https://github.com/kabaothao/kabaothao/blob/main/assets/catcode.gif" width="35" height="35"></h3>
+<h3 align="center">Welcome. Stay calm and code...<img src="https://github.com/kabaothao/kabaothao/blob/main/assets/catcode.gif" width="35" height="35"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabaothao&label=Profile%20views&color=0e75b6&style=flat" alt="kabaothao" /> </p>
 
