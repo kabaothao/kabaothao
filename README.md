@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tkabao@gmail.com**
 
-- ⚡ Fun fact **Grandma's Marathon was my first marathon in 2020.**
+- ⚡ Fun fact **❄️🏔️🏂 The most challenging winter sport I learned was snowboarding this year.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
