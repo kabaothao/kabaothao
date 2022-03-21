@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [React-Portfolio](https://github.com/kabaothao/React-Portfolio)
 
-- 🌱 I’m currently learning **React/C#/.NET/Material UI/Tailwinds CSS/Microsoft Azure/Dev Ops**
+- 🌱 I’m currently learning **React/C#/Microsoft Azure**
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/React-Portfolio/](https://kabaothao.github.io/React-Portfolio/)
 
 - 📫 How to reach me **tkabao@gmail.com**
 
-- ⚡ Fun fact **❄️🏔️🏂 The most challenging winter sport I learned was snowboarding this year.**
+- ⚡ Fun fact **❄️🏔️ I learned to snowboard this year. 🏂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
