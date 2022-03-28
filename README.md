@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [React-Portfolio](https://github.com/kabaothao/React-Portfolio)
 
-- 🌱 I’m currently learning **React/C#/Microsoft Azure**
+- 🌱 I’m currently learning **React/C#/Microsoft Azure/Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/React-Portfolio/](https://kabaothao.github.io/React-Portfolio/)
 
