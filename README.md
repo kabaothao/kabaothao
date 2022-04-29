@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [React-Portfolio](https://github.com/kabaothao/React-Portfolio)
 
-- 🌱 I’m currently learning **React/C#/Azure Cosmos DB/Babel/Webpack/.NET**
+- 🌱 I’m currently learning **React/C#/Azure Cosmos DB/Babel/Webpack/.NET/Chart.js**
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/React-Portfolio/](https://kabaothao.github.io/React-Portfolio/)
 
