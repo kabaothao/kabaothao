@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabaothao&label=Profile%20views&color=0e75b6&style=flat" alt="kabaothao" /> </p>
 
-- 👩‍🎓 University of Minnesota Alumna 
+- 👩‍🎓 University of Minnesota Coding Bootcamp Alumna 
 
 - 🔭 I’m currently working on [React-Portfolio](https://github.com/kabaothao/React-Portfolio)
 
