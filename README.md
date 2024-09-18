@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://kabaothao.github.io/React-Portfolio/](https://kabaothao.github.io/React-Portfolio/)
 
-- 📫 How to reach me **tkabao@gmail.com**
-
 - ⚡ Fun fact **❄️🏔️ I learned to snowboard this year. 🏂**
 
 <h3 align="left">Connect with me:</h3>
